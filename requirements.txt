@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+pydantic
+vaderSentiment
+nltk
+scikit-learn
